@@ -1,5 +1,7 @@
 # MachineLearningFinal
 
+disclaimer: Please ensure your visual studio code is connected to the Anaconda3 package manager kernal!!!
+
 1. Start by opening visual studio code from your github desktop
 2. Add the two csv files from this dataset into your folder:
       https://www.kaggle.com/datasets/vicentearce/steam-and-steam-spy-raw-datasets
